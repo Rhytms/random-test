@@ -12,6 +12,8 @@ div{
     left: 50%;
     transform: translate(-50%,-50%);
 	 margin: 0px 0px 0px 0px;
-	 color:rgba(128,32,32,0.6)
+	 color:rgba(128,32,32,0.6);
+	 color:rgba(128,32,32,0.1);
+	 color:rgba(128,32,32,0.2);
 
 }
